@@ -106,8 +106,8 @@ numerical-methods-matlab/
 │   ├── Assignment1.m
 │   └── Assignment1.pdf
 ├── yale-project/
-│   ├── yale_faces.m
-│   └── report_yale.pdf
+│   ├── PCA_project_YaleData.m
+│   └── Yale.pdf
 ├── assignment2-clustering/
 │   ├── mykm.m                   # K-means (Lloyd's algorithm)
 │   ├── my_k_medoids.m           # K-medoids (PAM)
