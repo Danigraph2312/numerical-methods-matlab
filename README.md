@@ -115,8 +115,8 @@ numerical-methods-matlab/
 │   ├── mykm.m                   # K-means (Lloyd's algorithm)
 │   └── Assignment2.pdf
 ├── assignment3-lda-nmf/
-│   ├── lda_nmf.m
-│   └── report_assignment3.pdf
+│   ├── Assignment3.m
+│   └── Assignment_3.pdf
 └── README.md
 ```
 
