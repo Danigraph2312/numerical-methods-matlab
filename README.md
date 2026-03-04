@@ -117,6 +117,8 @@ numerical-methods-matlab/
 ├── assignment3-lda-nmf/
 │   ├── Assignment3.m
 │   └── Assignment_3.pdf
+├── data/
+│   └── README.md
 └── README.md
 ```
 
