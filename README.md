@@ -109,15 +109,11 @@ numerical-methods-matlab/
 │   ├── PCA_project_YaleData.m
 │   └── Yale.pdf
 ├── assignment2-clustering/
-│   ├── mykm.m                   # K-means (Lloyd's algorithm)
+│   ├── Assignment_2.m
+│   ├── Projects_.m
 │   ├── my_k_medoids.m           # K-medoids (PAM)
-│   ├── iris_kmeans.m
-│   ├── iris_kmedoids.m
-│   ├── wine_clustering.m
-│   ├── cardiac_spect.m
-│   ├── congressional_vote.m
-│   ├── biopsy.m
-│   └── report_assignment2.pdf
+│   ├── mykm.m                   # K-means (Lloyd's algorithm)
+│   └── Assignment2.pdf
 ├── assignment3-lda-nmf/
 │   ├── lda_nmf.m
 │   └── report_assignment3.pdf
