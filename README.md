@@ -103,10 +103,8 @@ Unlike K-means centroids, medoids are always actual data points, making PAM robu
 ```
 numerical-methods-matlab/
 ├── assignment1-pca/
-│   ├── ex1_model_reduction.m
-│   ├── ex2_handwritten_digits.m
-│   ├── ex3_iris_pca.m
-│   └── report_assignment1.pdf
+│   ├── Assignment1.m
+│   └── Assignment1.pdf
 ├── yale-project/
 │   ├── yale_faces.m
 │   └── report_yale.pdf
